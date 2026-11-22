@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+key.txt
+data/orders.db
+data/sessions.json
+data/tickets.json
+logs/
+*.log
